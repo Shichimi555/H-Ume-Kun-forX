@@ -43,6 +43,8 @@
     urlLink.textContent = url;
     urlLink.classList.add('filledURLLink');
     urlLink.href = url;
+    urlLink.target = '_blank';
+    urlLink.rel = 'noopener noreferrer';
     urlArea.appendChild(urlLink);
 
     return urlArea;
