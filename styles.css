@@ -1,0 +1,24 @@
+.filledURLArea{
+	background-color: rgb(146, 223, 197);
+	border-radius: 27px;
+	padding: 15px;
+	margin: 10px;
+}
+
+.filledURLLink{
+	color: black;
+}
+
+.header{
+	padding: 2px;
+	margin: 0;
+	color: black;
+	border-radius: 12px;
+	font-weight: bold;
+	width: fit-content;
+}
+
+.preview{
+	width: 90%;
+}
+
