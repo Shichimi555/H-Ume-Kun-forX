@@ -18,7 +18,11 @@
 	width: fit-content;
 }
 
-.preview{
-	width: 90%;
+.previewPlayerDetails{
+	margin: 5px;
 }
 
+.previewPlayerVideo{
+	width: 90%;
+	margin: 5px;
+}

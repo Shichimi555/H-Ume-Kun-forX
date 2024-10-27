@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "H埋めくん",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "X(Twitter)のツイートに含まれるh抜き動画URLを補完します",
   "content_scripts": [
     {
       "matches": ["https://x.com/*"],
